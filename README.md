@@ -13,3 +13,5 @@ in the file "./clustering/k-means.py" to
 Project done for a college course: **Data Mining And Warehousing**
 
 Group members: **Ammar Sura & Arunima Sen**
+
+Completed from **March 2022 to May 2022**
