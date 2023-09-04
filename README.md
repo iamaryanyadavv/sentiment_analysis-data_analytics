@@ -10,7 +10,7 @@ in the file "./clustering/k-means.py" to
 2. './clustering/singapore.csv' for singapore hotel data
 3. './clustering/kualalampur.csv' for kualalmpur hotel data.
 
-Project done for a college course: **Data Mining And Warehousing**
+Project done under **Professor Anirban Mondal** in **CS2367/PSY2376 - Data Mining And Warehousing**
 
 Group members: **Aryan Yadav, Ammar Sura & Arunima Sen**
 
